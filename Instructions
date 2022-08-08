@@ -1,0 +1,5 @@
+1. Use code from today's code-along to fetch information from determined API
+2. Make a variable to copy the url of the API
+3. Break down the API url into two parts: the basic url and the input field
+4. Make an input field for a name the user can input
+5. 

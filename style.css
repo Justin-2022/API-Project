@@ -1,0 +1,22 @@
+#title {
+    text-align: center;
+    font-weight: bold;
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+
+.name_container {
+    display: flex;
+
+}
+
+#name {
+    text-align: center;
+    font-size: 16px;
+}
+
+p {
+    padding: 10px;
+    background-color: aqua;
+    text-align: center;
+}
